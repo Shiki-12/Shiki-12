@@ -19,7 +19,7 @@
 ---
 
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2d4dWw5Z2V1a29uN3JqdXJzY3l6dGRyZ3RxY2w0Zmh2b292b216eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ie2yK9P7V9eZ2/giphy.gif" width="25" /> About Me
-🔭 Current Focus	Developing automated Telegram Bots and scalable Laravel backends.<br>🌱 Learning	Deepening expertise in Cybersecurity, PHP, and Linux administration.<br>👨‍💻 Portfolio	Explore my projects at GitHub Repositories.<br>💬 Ask Me About	PHP Frameworks, Python Scripting, or PC Hardware repair.<br>📫 Contact	Drop me an email at fatar.gaza21@gmail.com.<br>⚡ Fun Fact	I troubleshoot software bugs with the same logic I use to assemble PCs at Techspot Comp.
+🔭 Current Focus	Developing automated Telegram Bots and scalable Laravel backends.<br>🌱 Learning	Deepening expertise in Cybersecurity, PHP, and Linux administration.<br>👨‍💻 Portfolio	Explore my projects at GitHub Repositories.<br>💬 Ask Me About	PHP Frameworks, Python Scripting, or PC Hardware repair.<br>📫 Contact	Drop me an email at fatar.gaza21@gmail.com.<br>⚡ Fun Fact	Want to be a reliable programmer but reluctant to code.
 
 
 ## 🌐 Socials:
