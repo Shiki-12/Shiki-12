@@ -19,8 +19,6 @@
 ---
 
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2d4dWw5Z2V1a29uN3JqdXJzY3l6dGRyZ3RxY2w0Zmh2b292b216eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ie2yK9P7V9eZ2/giphy.gif" width="25" /> About Me
-
-# 💫 About Me:
 🔭 Current Focus	Developing automated Telegram Bots and scalable Laravel backends.<br>🌱 Learning	Deepening expertise in Cybersecurity, PHP, and Linux administration.<br>👨‍💻 Portfolio	Explore my projects at GitHub Repositories.<br>💬 Ask Me About	PHP Frameworks, Python Scripting, or PC Hardware repair.<br>📫 Contact	Drop me an email at fatar.gaza21@gmail.com.<br>⚡ Fun Fact	I troubleshoot software bugs with the same logic I use to assemble PCs at Techspot Comp.
 
 
@@ -33,8 +31,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=Shiki-12&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Shiki-12&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiki-12&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
