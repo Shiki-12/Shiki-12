@@ -73,9 +73,19 @@
 
   <br/><br/>
 
+  
+<div align="center">
   <h2>📊 Telemetry</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=Shiki-12&theme=tokyonight&hide_border=false&include_all_commits=false" alt="stats graph" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Shiki-12&theme=tokyonight&hide_border=false" height="165" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiki-12&theme=tokyonight&hide_border=false&include_all_commits=false&layout=compact" height="165" alt="top languages" />
+  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Shiki-12&theme=tokyonight&hide_border=false&include_all_commits=false&show_icons=true&v=final" alt="Shiki-12 Stats" />
+  </p>
+  
+  <p align="center">
+    <img src="https://streak-stats.demolab.com?user=Shiki-12&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="Shiki-12 Streak" />
+  </p>
+  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiki-12&theme=tokyonight&hide_border=false&layout=compact&v=final" alt="Top Languages" />
+  </p>
 </div>
