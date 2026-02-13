@@ -75,17 +75,20 @@
 
   
 <div align="center">
-  <h2>📊 Telemetry</h2>
+  <h2>📊 Telemetry & Achievements</h2>
+
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Shiki-12&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="Shiki-12 Trophies" />
+  </a>
   
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Shiki-12&theme=tokyonight&hide_border=false&include_all_commits=false&show_icons=true&v=final" alt="Shiki-12 Stats" />
-  </p>
-  
-  <p align="center">
-    <img src="https://streak-stats.demolab.com?user=Shiki-12&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="Shiki-12 Streak" />
-  </p>
-  
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiki-12&theme=tokyonight&hide_border=false&layout=compact&v=final" alt="Top Languages" />
-  </p>
+  <br/><br/>
+
+  <img src="https://streak-stats.demolab.com?user=Shiki-12&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="Shiki-12 Streak" />
+
+  <br/><br/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shiki-12&theme=tokyonight" alt="Profile Details" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shiki-12&theme=tokyonight&utcOffset=7" alt="Productive Time" />
+
 </div>
