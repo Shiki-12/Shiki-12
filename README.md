@@ -80,7 +80,5 @@
   <img src="https://streak-stats.demolab.com?user=Shiki-12&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="Shiki-12 Streak" />
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shiki-12&theme=tokyonight" alt="Profile Details" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shiki-12&theme=tokyonight&utcOffset=7" alt="Productive Time" />
 
 </div>
