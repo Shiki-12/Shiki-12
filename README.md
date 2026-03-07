@@ -7,11 +7,10 @@
         <br/>
         <p>
           I am a specialized developer from Indonesia, architecting solutions within the digital ether. 
-          My existence is dedicated to constructing scalable backends and automating interactions 
-          via Telegram Bots, all while adhering to the strictest protocols of cybersecurity.
+          My existence is dedicated to constructing scalable backends and learning making website, all while adhering to the strictest protocols of cybersecurity.
         </p>
         <p>
-           Currently resolving: <strong>Laravel Scalability & Linux Administration</strong>.
+           Currently resolving: <strong>Laravel madura & Nime-nime</strong>.
         </p>
       </div>
     </td>
@@ -31,10 +30,10 @@
 </h3>
 
 <ul>
-  <li><strong>Current Objective:</strong> Automating Telegram interactions and fortifying Laravel backends.</li>
-  <li><strong>Knowledge Acquisition:</strong> Advanced Cybersecurity vectors, PHP internals, and Linux system administration.</li>
+  <li><strong>Current Objective:</strong> Nime Nime website and fortifying Laravel backends.</li>
+  <li><strong>Knowledge Acquisition:</strong> Advanced Cybersecurity vectors, PHP internals, and Linux system administration, next.js .</li>
   <li><strong>Communication:</strong> <a href="mailto:fatar.gaza21@gmail.com">fatar.gaza21@gmail.com</a></li>
-  <li><strong>Core Philosophy:</strong> <em>"Reliability over redundancy."</em></li>
+  <li><strong>Core Philosophy:</strong> <em>"Want to be skilled programmer but reluctant to code."</em></li>
 </ul>
 
 <div align="center">
