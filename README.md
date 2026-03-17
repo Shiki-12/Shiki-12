@@ -25,7 +25,7 @@
 <hr/>
 
 <h3>
-  <div class="tenor-gif-embed" data-postid="8185585949157038210" data-share-method="host" data-aspect-ratio="1.45614" data-width="100%"><a href="https://tenor.com/view/anime-gif-8185585949157038210">Anime Meme</a>from <a href="https://tenor.com/search/anime-memes">Anime Memes</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img src="https://media.giphy.com/media/bqSkJ4IwNcoZG/giphy.gif" width="30" style="vertical-align: middle;"/>
   Operational Context
 </h3>
 
