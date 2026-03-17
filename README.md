@@ -25,7 +25,7 @@
 <hr/>
 
 <h3>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2d4dWw5Z2V1a29uN3JqdXJzY3l6dGRyZ3RxY2w0Zmh2b292b216eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ie2yK9P7V9eZ2/giphy.gif" width="30" style="vertical-align: middle;"/> 
+  <img src="https://tenor.com/id/view/anime-gif-8185585949157038210" width="30" style="vertical-align: middle;"/> 
   Operational Context
 </h3>
 
