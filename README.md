@@ -30,7 +30,7 @@
 </h3>
 
 <ul>
-<li><strong>My Website:</strong>nime-nime.web.id & gshiki.my.id</li>
+<li><strong>My Website:</strong> https://nime-nime.web.id & https://gshiki.my.id</li>
   <li><strong>Current Objective:</strong> Nime Nime website and fortifying Laravel backends.</li>
   <li><strong>Knowledge Acquisition:</strong> Advanced Cybersecurity vectors, PHP internals, and Linux system administration, next.js .</li>
   <li><strong>Communication:</strong> <a href="mailto:fatar.gaza21@gmail.com">fatar.gaza21@gmail.com</a></li>
